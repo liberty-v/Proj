@@ -3,7 +3,7 @@ Proj is short for project.
 
 Instructions:
 
-1: Import the emro_boarding.sql in phpmyadmin 
+1: Import the emro_boarding.sql in phpmyadmin and change and set up your DB_user and DB_password of your database inside the config.php from the config folder.
 
 2: Run the php page (login.php) first in a browser and it will proceed to a login page. Input the following to log in. ((Username: admin  Password:admin))
 
